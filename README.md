@@ -5,4 +5,5 @@ split things out. Details below.
 
 ## Install dependencies
 ```shell
-pip install sodapy```
+pip install sodapy
+```
